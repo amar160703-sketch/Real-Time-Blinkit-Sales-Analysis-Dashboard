@@ -38,6 +38,3 @@ The dataset includes:
 
 🎯 Key Outcome
 This project demonstrates strong proficiency in **Excel-based data analysis**, business understanding, and dashboard creation using real-world retail data.
-
-👤 Author
-Amarnath
